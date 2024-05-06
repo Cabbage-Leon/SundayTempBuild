@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sunday.Admin.Net</id>
+    <version>1.0.0</version>
+    <description>
+      Creates a template project.
+    </description>
+    <authors>Leon.Liu</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+	<projectUrl>https://github.com/Cabbage-Leon/Sunday.Admin.Net.git</projectUrl>
+	<copyright>Copyright 2024 </copyright>
+	<tags>asp.net core template</tags>
+  </metadata>
+</package>

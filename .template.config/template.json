@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Leon.Liu", 
+    "classifications": [ "Web/WebAPI" ], 
+    "name": "Sunday.Admin.Net", 
+    "identity": "Sunday.Admin.Net", 
+    "shortName": "sunday",
+    "tags": {
+      "language": "C#" ,
+      "type":"project"
+    },
+    "sourceName": "BVCP.Net8",  
+    "preferNameDirectory": true  
+}

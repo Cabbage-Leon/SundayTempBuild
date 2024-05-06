@@ -1,0 +1,4 @@
+dotnet new -u Sunday.Admin.Net.1.0.0.nupkg
+dotnet new -i Sunday.Admin.Net.1.0.0.nupkg
+dotnet new list
+pause
